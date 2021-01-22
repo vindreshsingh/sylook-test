@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import postList from "./posts.js";
-import PostTable from "./tables/PostTable";
+import postList from "./post.js";
+import PostTable from "./tables/PostTables";
 import AddPostForm from "./forms/AddPostForm";
 import EditUserForm from "./forms/EditPostForm";
 
